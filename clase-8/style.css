@@ -1,0 +1,14 @@
+a:link{
+    color: blueviolet;
+}
+a:visited {
+    color: rgb(187, 36, 71);
+}
+a:hover {
+    color: chartreuse;
+}
+h1:hover {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    font-size: 80px;
+}
